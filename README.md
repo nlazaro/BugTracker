@@ -1,5 +1,5 @@
 # BugTracker
- **Bug Tracker app created using C# and .NET 6 + Entity Framework + Razor Pages + Bootstrap + SQL as a database**
+ **Bug Tracker web app created using C# and .NET 6 + Entity Framework + Razor Pages + Bootstrap + SQL as a database**
 
 Requires SQL access to run
 
