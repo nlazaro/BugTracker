@@ -13,12 +13,12 @@ Create:
 
 Update:
 <p align="center">
-<img src="gifs/Edit1.gif">
+<img src="gifs/Edit2.gif">
 
 Delete:
 <p align="center">
-<img src="gifs/Delete1.gif">
+<img src="gifs/Delete2.gif">
 
 Search:
 <p align="center">
-<img src="gifs/Search2.gif">
+<img src="gifs/Search1.gif">
