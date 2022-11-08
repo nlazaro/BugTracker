@@ -6,13 +6,17 @@ Uses the MVC (model-view-controller) pattern along with a CRUD (create-read-upda
 Includes a search bar that searches time, title, and description.
 
 Create:
-<img src="Add.gif">
+<p align="center">
+<img src="gifs/Add.gif">
 
-Update
-<img src="Edit.gif">
+Update:
+<p align="center">
+<img src="gifs/Edit.gif">
 
 Delete:
-<img src="Delete.gif">
+<p align="center">
+<img src="gifs/Delete.gif">
 
 Search:
-<img src="Search.gif">
+<p align="center">
+<img src="gifs/Search.gif">
