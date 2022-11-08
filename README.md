@@ -9,7 +9,7 @@ Includes a search bar that searches time, title, and description.
 
 Create:
 <p align="center">
-<img src="gifs/Add1.gif">
+<img src="gifs/Add2.gif">
 
 Update:
 <p align="center">
@@ -21,4 +21,4 @@ Delete:
 
 Search:
 <p align="center">
-<img src="gifs/Search1.gif">
+<img src="gifs/Search2.gif">
