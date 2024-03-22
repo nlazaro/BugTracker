@@ -1,5 +1,5 @@
 # BugTracker
- **Bug Tracker web app created using C# and .NET 6 **
+ ** Bug Tracker web app created using C# and .NET 6 **
 
 Requires SQL access to run
 
